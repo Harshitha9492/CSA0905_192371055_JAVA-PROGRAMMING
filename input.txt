@@ -1,0 +1,1 @@
+No runtime input required. This task documents the problem model and prints the key requirements.

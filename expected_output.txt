@@ -1,0 +1,6 @@
+CAMPUS SMART PARKING - REQUIREMENTS
+Inputs: registration number, vehicle type, parking duration
+Outputs: allocated slot, ticket, parking fee
+Rules: one vehicle per slot; reject invalid requests
+Classes: Vehicle, ParkingSlot, ParkingFacility, ParkingTicket
+Complexity: linear slot search O(n); storage O(n)
