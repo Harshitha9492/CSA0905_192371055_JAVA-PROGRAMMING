@@ -1,9 +1,9 @@
 # Assignment 2 Report – Strings and the Collection Framework
 
-**Student:** Mahima Prabhakaran  
-**Register Number:** 192521280  
+**Student:** VENUMBAKA HARSHITHA
+**Register Number:** 192371055
 **Course Outcome:** CO2  
-**GitHub:** https://github.com/Mahima-07m/JAVA-CSA0918
+**GitHub:** github.com/Harshitha9492/CSA0905_192371055_JAVA-PROGRAMMING 
 
 ## Aim
 To complete the tasks in the official CO2 assignment PDF and demonstrate strings, collections, hashcode/equals, generics, comparators and queues through design, implementation, testing and evaluation.
