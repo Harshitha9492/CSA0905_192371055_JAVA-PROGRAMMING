@@ -1,9 +1,9 @@
 # Assignment 1 Report – Campus Smart-Parking System
 
-**Student:** Mahima Prabhakaran  
-**Register Number:** 192521280  
+**Student:** VENUMBAKA HARSHITHA
+**Register Number:** 192371055  
 **Course Outcome:** CO1  
-**GitHub:** https://github.com/Mahima-07m/JAVA-CSA0918
+**GitHub:**github.com/Harshitha9492/CSA0905_192371055_JAVA-PROGRAMMING 
 
 ## Aim
 To complete the tasks in the official CO1 assignment PDF and demonstrate java fundamentals and object-oriented programming through design, implementation, testing and evaluation.
