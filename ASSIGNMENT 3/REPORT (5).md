@@ -1,9 +1,9 @@
 # Assignment 3 Report – Exception Handling and Multithreading
 
-**Student:** Mahima Prabhakaran  
-**Register Number:** 192521280  
+**Student:** VENUMBAKA HARSHITHA
+**Register Number:** 192371055 
 **Course Outcome:** CO3  
-**GitHub:** https://github.com/Mahima-07m/JAVA-CSA0918
+**GitHub:** https://github.com/Harshitha9492/CSA0905_192371055_JAVA-PROGRAMMING
 
 ## Aim
 To complete the tasks in the official CO3 assignment PDF and demonstrate exception handling, resource safety, threads, synchronization and concurrency through design, implementation, testing and evaluation.
